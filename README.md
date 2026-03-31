@@ -12,7 +12,7 @@
 
 <!-- ========== MAIN IMAGE ========== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="480" alt="coding gif"/>
 </div>
 
 <br/>
@@ -121,7 +121,7 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deKimLife&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=00d4ff&amp;fire=0a7abf&amp;currStreakLabel=00d4ff&amp;sideLabels=7ec8e3&amp;currStreakNum=ffffff&amp;sideNums=7ec8e3&amp;dates=4a7fa5" width="55%" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=deKimLife&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=00d4ff&amp;fire=0a7abf&amp;currStreakLabel=00d4ff&amp;sideLabels=7ec8e3&amp;currStreakNum=ffffff&amp;sideNums=7ec8e3&amp;dates=4a7fa5" width="55%" alt="streak"/>
 
 </div>
 
@@ -131,7 +131,7 @@
 
 <!-- ========== ACTIVITY GRAPH ========== -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deKimLife&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=00d4ff&amp;line=0a7abf&amp;point=00d4ff&amp;area=true&amp;area_color=0a2a6e" width="100%" alt="activity"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deKimLife&amp;theme=tokyonight" width="100%" alt="activity"/>
 </div>
 
 <br/>
