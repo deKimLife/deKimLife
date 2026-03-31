@@ -1,6 +1,8 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a2a6e,100:00d4ff&amp;height=260&amp;section=header&amp;text=deKimLife&amp;fontSize=90&amp;fontColor=00d4ff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Enterprise%20Developer%20%7C%20Backend%20%26%20Frontend&amp;descSize=20&amp;descAlignY=62&amp;descAlign=50&amp;descFontColor=7ec8e3" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=45&amp;pause=4000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=500&amp;height=70&amp;lines=deKimLife" alt="deKimLife"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Enterprise_Developer-Backend_%26_Frontend-00d4ff?style=for-the-badge&amp;labelColor=0a2a6e" alt="subtitle"/>
 </div>
 
 <!-- ========== TYPING ANIMATION ========== -->
@@ -116,8 +118,9 @@
 
 <h2>&#128202; GitHub Stats</h2>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=deKimLife&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;text_color=7ec8e3&amp;ring_color=00d4ff" alt="stats"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deKimLife&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=7ec8e3" alt="langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=deKimLife&amp;theme=tokyonight" height="175em" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=deKimLife&amp;theme=tokyonight" height="175em" alt="langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=deKimLife&amp;theme=tokyonight" height="175em" alt="commit-lang"/>
 
 <br/>
 
@@ -325,5 +328,7 @@
 
 <!-- ========== FOOTER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00d4ff,40:0a2a6e,100:0d1117&amp;height=130&amp;section=footer" width="100%" alt="footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=14&amp;pause=3000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=350&amp;height=30&amp;lines=Thanks+for+visiting!+%E2%9C%A8" alt="footer typing"/>
+  <br/>
+  <img src="https://img.shields.io/badge/_%E2%96%81%E2%96%82%E2%96%83%E2%96%84%E2%96%85%E2%96%86%E2%96%87%E2%96%88_deKimLife_%E2%96%88%E2%96%87%E2%96%86%E2%96%85%E2%96%84%E2%96%83%E2%96%82%E2%96%81_-0a2a6e?style=for-the-badge&amp;labelColor=0d1117" width="100%" alt="footer"/>
 </div>
