@@ -12,7 +12,7 @@
 
 <!-- ========== MAIN IMAGE ========== -->
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="480" alt="coding gif"/>
 </div>
 
 <br/>
