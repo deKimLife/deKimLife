@@ -23,31 +23,31 @@
 <table border="0" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center" colspan="2">
-      <strong>— &nbsp; A B O U T &nbsp; M E &nbsp; —</strong>
+      <strong>— &#160; A B O U T &#160; M E &#160; —</strong>
     </td>
   </tr>
   <tr>
-    <td align="right">🌏 &nbsp;<strong>Based in</strong></td>
+    <td align="right">🌏 &#160;<strong>Based in</strong></td>
     <td align="left">South Korea</td>
   </tr>
   <tr>
-    <td align="right">💼 &nbsp;<strong>Role</strong></td>
+    <td align="right">💼 &#160;<strong>Role</strong></td>
     <td align="left">Enterprise Java Developer</td>
   </tr>
   <tr>
-    <td align="right">🔭 &nbsp;<strong>Domain</strong></td>
+    <td align="right">🔭 &#160;<strong>Domain</strong></td>
     <td align="left">Customs Clearance System</td>
   </tr>
   <tr>
-    <td align="right">⚡ &nbsp;<strong>Speciality</strong></td>
+    <td align="right">⚡ &#160;<strong>Speciality</strong></td>
     <td align="left">Backend &amp; Angular Frontend</td>
   </tr>
   <tr>
-    <td align="right">📚 &nbsp;<strong>Always</strong></td>
+    <td align="right">📚 &#160;<strong>Always</strong></td>
     <td align="left">Learning &amp; Growing</td>
   </tr>
   <tr>
-    <td align="right">💡 &nbsp;<strong>Motto</strong></td>
+    <td align="right">💡 &#160;<strong>Motto</strong></td>
     <td align="left">"Better late than never"</td>
   </tr>
 </table>
@@ -102,7 +102,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Infra & Tools**
+**Infra &amp; Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -162,7 +162,7 @@
 <table border="1" cellpadding="20" cellspacing="0" style="border-color:#00d4ff;">
   <tr>
     <td align="center">
-      <strong>🔒 &nbsp; Coming Soon &nbsp; 🔒</strong>
+      <strong>🔒 &#160; Coming Soon &#160; 🔒</strong>
       <br/><br/>
       Career history &amp; project details will be updated here.
     </td>
