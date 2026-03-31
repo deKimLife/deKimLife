@@ -145,23 +145,179 @@
 
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=2000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Under+Construction...+%F0%9F%94%A7;Career+%26+Projects+coming+soon!" alt="Coming Soon"/>
-
-<br/><br/>
-
-<table border="1" cellpadding="20" cellspacing="0">
+<table border="0" cellpadding="6" cellspacing="0">
   <tr>
-    <td align="center">
-      <strong>&#128274;&#160; Coming Soon &#160;&#128274;</strong>
-      <br/><br/>
-      Career history &amp; project details will be updated here.
-    </td>
+    <td align="center">&#128198; Total Experience</td>
+    <td align="center">&#128205; Location</td>
+    <td align="center">&#127959; Domain</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>11 Years 4 Months</strong></td>
+    <td align="center"><strong>Daejeon, South Korea</strong></td>
+    <td align="center"><strong>Customs Clearance Systems</strong></td>
   </tr>
 </table>
 
 </div>
+
+<br/>
+
+---
+
+<!-- FREELANCER -->
+<div align="center">
+
+<h3>&#128188; Freelancer &nbsp;&#183;&nbsp; Senior Developer</h3>
+
+</div>
+
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+  <tr>
+    <td width="30%" valign="top" align="right"><strong>2022.11 ~ Present</strong><br/><em>3yr +</em></td>
+    <td width="70%" valign="top">
+      <strong>&#127758; Algeria Customs Information System (ALPASS)</strong><br/>
+      &#8226; Client: Algeria Customs Authority &nbsp;|&nbsp; Vendor: CUPIA<br/>
+      &#8226; Traveler Clearance &amp; TPD (Travel Permit Document) — Analysis / Design / Development / Deployment / Maintenance<br/>
+      &#8226; Built Angular 13 frontend + Spring Boot backend for customs portal<br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white" alt="SpringBoot"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&amp;logo=mariadb&amp;logoColor=white" alt="MariaDB"/>
+      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&amp;logo=apache&amp;logoColor=white" alt="Apache"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- KCNET -->
+<div align="center">
+
+<h3>&#127970; KCNET &nbsp;&#183;&nbsp; Manager</h3>
+<p>2014.10 ~ 2022.10 &nbsp;&#183;&nbsp; <strong>8 Years 1 Month</strong></p>
+
+</div>
+
+<table border="0" cellpadding="8" cellspacing="0" width="100%">
+
+  <!-- Project 1 -->
+  <tr>
+    <td width="30%" valign="top" align="right"><strong>2022.04 ~ 2022.10</strong></td>
+    <td width="70%" valign="top">
+      <strong>&#127760; National Customs Network — Operation &amp; Maintenance 2022</strong><br/>
+      &#8226; Client: Korea Customs Service<br/>
+      &#8226; Blockchain (Export Declaration, Certificate of Origin) &amp; AI X-Ray image labeling / model training<br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&amp;logo=ethereum&amp;logoColor=white" alt="Blockchain"/>
+      <img src="https://img.shields.io/badge/AI_XRay-00d4ff?style=flat-square&amp;logoColor=white" alt="AI XRay"/>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- Project 2 -->
+  <tr>
+    <td width="30%" valign="top" align="right"><strong>2021.04 ~ 2022.02</strong></td>
+    <td width="70%" valign="top">
+      <strong>&#9992; Port &amp; Airport Surveillance System Enhancement</strong><br/>
+      &#8226; Client: Korea Customs Service<br/>
+      &#8226; Analysis / Design / Development of port and airport monitoring platform<br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/WebSphere-052FAD?style=flat-square&amp;logo=ibm&amp;logoColor=white" alt="WebSphere"/>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- Project 3 -->
+  <tr>
+    <td width="30%" valign="top" align="right"><strong>2020.06 ~ 2020.12</strong></td>
+    <td width="70%" valign="top">
+      <strong>&#128178; Price Declaration System Overhaul</strong><br/>
+      &#8226; Client: Korea Customs Service<br/>
+      &#8226; Full analysis / design / development of customs price reporting system<br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/WebSphere-052FAD?style=flat-square&amp;logo=ibm&amp;logoColor=white" alt="WebSphere"/>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- Project 4 -->
+  <tr>
+    <td width="30%" valign="top" align="right"><strong>2019.06 ~ 2020.04</strong></td>
+    <td width="70%" valign="top">
+      <strong>&#128203; CIQ Information Sharing System Redesign</strong><br/>
+      &#8226; Client: NIA (National Information Society Agency)<br/>
+      &#8226; WCO EDIFACT API development for cross-border information sharing<br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Tibero-003087?style=flat-square&amp;logoColor=white" alt="Tibero"/>
+      <img src="https://img.shields.io/badge/WCO_EDIFACT-00d4ff?style=flat-square&amp;logoColor=white" alt="EDIFACT"/>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- Project 5+6 -->
+  <tr>
+    <td width="30%" valign="top" align="right"><strong>2017.01 ~ 2018.12</strong></td>
+    <td width="70%" valign="top">
+      <strong>&#128269; UNI-PASS Maintenance 2017 ~ 2018</strong><br/>
+      &#8226; Client: Korea Customs Service<br/>
+      &#8226; UNI-PASS (e-Clearance system) development &amp; ongoing maintenance<br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/WebLogic-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="WebLogic"/>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- Project 7 -->
+  <tr>
+    <td width="30%" valign="top" align="right"><strong>2016.01 ~ 2016.12</strong></td>
+    <td width="70%" valign="top">
+      <strong>&#128269; National Customs Network Maintenance 2016</strong><br/>
+      &#8226; Client: Korea Customs Service<br/>
+      &#8226; UNI-PASS development &amp; maintenance<br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle"/>
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><hr/></td></tr>
+
+  <!-- Project 8 -->
+  <tr>
+    <td width="30%" valign="top" align="right"><strong>2014.11 ~ 2015.12</strong></td>
+    <td width="70%" valign="top">
+      <strong>&#128196; AEO Integrated Management &amp; e-Clearance Maintenance</strong><br/>
+      &#8226; Client: Korea Customs Service<br/>
+      &#8226; Single Window (SW) customs portal development &amp; maintenance<br/>
+      <br/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="Oracle"/>
+      <img src="https://img.shields.io/badge/WebLogic-F80000?style=flat-square&amp;logo=oracle&amp;logoColor=white" alt="WebLogic"/>
+    </td>
+  </tr>
+
+</table>
+
+<br/>
 
 <br/>
 
