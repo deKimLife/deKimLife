@@ -5,7 +5,7 @@
 
 <!-- ========== TYPING ANIMATION ========== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=620&height=60&lines=Hello%2C+World!+I'm+deKimLife+%F0%9F%91%8B;Java+%7C+Spring+Framework+Developer;Angular+%7C+TypeScript+Frontend+Engineer;Enterprise+Customs+System+Builder;%22Better+late+than+never%22+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=680&height=60&lines=11+Years.+Full-Stack.+Still+Shipping.+%F0%9F%94%A5;From+DB+Schema+to+Pixel-Perfect+UI.;Java+%26+Angular+%E2%80%94+Front+to+Back%2C+I've+got+it.;Enterprise+Systems+that+actually+work.+%E2%9A%99%EF%B8%8F;Better+late+than+never+%E2%80%94+but+I+ship+on+time.+%E2%9A%A1" alt="Typing SVG"/>
 </div>
 
 <br/>
