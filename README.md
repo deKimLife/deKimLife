@@ -1,18 +1,18 @@
 <!-- ========== HEADER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a6e,100:00d4ff&height=260&section=header&text=deKimLife&fontSize=90&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&desc=Enterprise%20Developer%20%7C%20Backend%20%26%20Frontend&descSize=20&descAlignY=62&descAlign=50&descFontColor=7ec8e3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,40:0a2a6e,100:00d4ff&amp;height=260&amp;section=header&amp;text=deKimLife&amp;fontSize=90&amp;fontColor=00d4ff&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Enterprise%20Developer%20%7C%20Backend%20%26%20Frontend&amp;descSize=20&amp;descAlignY=62&amp;descAlign=50&amp;descFontColor=7ec8e3" width="100%"/>
 </div>
 
 <!-- ========== TYPING ANIMATION ========== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&random=false&width=680&height=60&lines=11+Years.+Full-Stack.+Still+Shipping.+%F0%9F%94%A5;From+DB+Schema+to+Pixel-Perfect+UI.;Java+%26+Angular+%E2%80%94+Front+to+Back%2C+I've+got+it.;Enterprise+Systems+that+actually+work.+%E2%9A%99%EF%B8%8F;Better+late+than+never+%E2%80%94+but+I+ship+on+time.+%E2%9A%A1" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=680&amp;height=60&amp;lines=11+Years.+Full-Stack.+Still+Shipping.+%F0%9F%94%A5;From+DB+Schema+to+Pixel-Perfect+UI+%E2%9A%A1;Java+%2B+Angular+%E2%80%94+End+to+End+Developer;Enterprise+Systems+that+actually+work;Better+late+than+never+%E2%80%94+I+ship+on+time" alt="Typing SVG"/>
 </div>
 
 <br/>
 
 <!-- ========== MAIN IMAGE ========== -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="480" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
 </div>
 
 <br/>
@@ -58,13 +58,13 @@
 
 ---
 
-<!-- ========== CAREER BUTTON (위치: Tech Stack 위) ========== -->
+<!-- ========== CAREER BUTTON (Tech Stack 위) ========== -->
 <div align="center">
 
 ### 👇 Want to know more about me?
 
 <a href="#-career--projects">
-  <img src="https://img.shields.io/badge/📋_Career_%26_Projects-Click_to_Explore_↓-00d4ff?style=for-the-badge&labelColor=0a2a6e&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Career_%26_Projects-Click_to_Explore_%E2%86%93-00d4ff?style=for-the-badge&amp;labelColor=0a2a6e" height="40"/>
 </a>
 
 </div>
@@ -122,12 +122,12 @@
 
 ## 📊 GitHub Stats
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=deKimLife&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=7ec8e3&ring_color=00d4ff"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deKimLife&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=7ec8e3"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=deKimLife&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;icon_color=00d4ff&amp;text_color=7ec8e3&amp;ring_color=00d4ff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deKimLife&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00d4ff&amp;text_color=7ec8e3"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deKimLife&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=0a7abf&currStreakLabel=00d4ff&sideLabels=7ec8e3&currStreakNum=ffffff&sideNums=7ec8e3&dates=4a7fa5" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deKimLife&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=00d4ff&amp;fire=0a7abf&amp;currStreakLabel=00d4ff&amp;sideLabels=7ec8e3&amp;currStreakNum=ffffff&amp;sideNums=7ec8e3&amp;dates=4a7fa5" width="55%"/>
 
 </div>
 
@@ -138,7 +138,7 @@
 <!-- ========== ACTIVITY GRAPH ========== -->
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deKimLife&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=0a7abf&point=00d4ff&area=true&area_color=0a2a6e" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deKimLife&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0d1117&amp;color=00d4ff&amp;line=0a7abf&amp;point=00d4ff&amp;area=true&amp;area_color=0a2a6e" width="100%"/>
 
 </div>
 
@@ -155,20 +155,19 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&height=50&lines=🔧+Under+Construction...;Career+%26+Projects+coming+soon!" alt="Coming Soon"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;pause=2000&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=50&amp;lines=Under+Construction...+%F0%9F%94%A7;Career+%26+Projects+coming+soon!" alt="Coming Soon"/>
 
 <br/><br/>
 
-```
-┌─────────────────────────────────────────────┐
-│                                             │
-│         🔒  Coming Soon  🔒                │
-│                                             │
-│   Career history & project details          │
-│   will be updated here.                     │
-│                                             │
-└─────────────────────────────────────────────┘
-```
+<table border="1" cellpadding="20" cellspacing="0" style="border-color:#00d4ff;">
+  <tr>
+    <td align="center">
+      <strong>🔒 &nbsp; Coming Soon &nbsp; 🔒</strong>
+      <br/><br/>
+      Career history &amp; project details will be updated here.
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -178,5 +177,5 @@
 
 <!-- ========== FOOTER ========== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:0a2a6e,100:0d1117&height=130&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00d4ff,40:0a2a6e,100:0d1117&amp;height=130&amp;section=footer" width="100%"/>
 </div>
