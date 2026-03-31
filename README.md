@@ -10,21 +10,62 @@
 
 <br/>
 
+<!-- ========== MAIN IMAGE ========== -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" alt="coding gif"/>
+</div>
+
+<br/>
+
 <!-- ========== ABOUT ME ========== -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║                  ABOUT  ME                       ║
-╠══════════════════════════════════════════════════╣
-║  🌏  Based in         South Korea                ║
-║  💼  Role             Enterprise Java Developer  ║
-║  🔭  Domain           Customs Clearance System   ║
-║  ⚡  Speciality       Backend & Angular Frontend  ║
-║  📚  Always           Learning & Growing         ║
-║  💡  Motto            "Better late than never"   ║
-╚══════════════════════════════════════════════════╝
-```
+<table border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" colspan="2">
+      <strong>— &nbsp; A B O U T &nbsp; M E &nbsp; —</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="right">🌏 &nbsp;<strong>Based in</strong></td>
+    <td align="left">South Korea</td>
+  </tr>
+  <tr>
+    <td align="right">💼 &nbsp;<strong>Role</strong></td>
+    <td align="left">Enterprise Java Developer</td>
+  </tr>
+  <tr>
+    <td align="right">🔭 &nbsp;<strong>Domain</strong></td>
+    <td align="left">Customs Clearance System</td>
+  </tr>
+  <tr>
+    <td align="right">⚡ &nbsp;<strong>Speciality</strong></td>
+    <td align="left">Backend &amp; Angular Frontend</td>
+  </tr>
+  <tr>
+    <td align="right">📚 &nbsp;<strong>Always</strong></td>
+    <td align="left">Learning &amp; Growing</td>
+  </tr>
+  <tr>
+    <td align="right">💡 &nbsp;<strong>Motto</strong></td>
+    <td align="left">"Better late than never"</td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ========== CAREER BUTTON (위치: Tech Stack 위) ========== -->
+<div align="center">
+
+### 👇 Want to know more about me?
+
+<a href="#-career--projects">
+  <img src="https://img.shields.io/badge/📋_Career_%26_Projects-Click_to_Explore_↓-00d4ff?style=for-the-badge&labelColor=0a2a6e&logoColor=white" height="40"/>
+</a>
 
 </div>
 
@@ -105,25 +146,9 @@
 
 ---
 
-<!-- ========== CAREER BUTTON ========== -->
-<div align="center">
-
-<br/>
-
-### 👇 Want to know more about me?
-
-<a href="#-career--projects">
-  <img src="https://img.shields.io/badge/📋_Career_%26_Projects-Click_to_Explore_↓-00d4ff?style=for-the-badge&labelColor=0a2a6e&logoColor=white" height="40"/>
-</a>
-
-<br/><br/>
-
-</div>
-
----
-
 <!-- ========== CAREER SECTION ========== -->
 <a name="-career--projects"></a>
+
 ## 🚀 Career & Projects
 
 <div align="center">
